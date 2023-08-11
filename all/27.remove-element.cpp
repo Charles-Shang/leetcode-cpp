@@ -87,9 +87,13 @@
 class Solution {
    public:
     /**
-     * Time: O(log n)
+     * Time: O(n)
      * Space: O(1)
      *
+     * Time Spent: 6 min
+     * 113/113 cases passed (0 ms)
+     * Your runtime beats 100 % of cpp submissions
+     * Your memory usage beats 45.22 % of cpp submissions (8.7 MB)
      */
     int removeElement(vector<int>& nums, int val) {
         int fast = 0, slow = 0;
@@ -106,9 +110,3 @@ class Solution {
     }
 };
 // @lc code=end
-/**
- * Time: 6 min
- * 113/113 cases passed (0 ms)
- * Your runtime beats 100 % of cpp submissions
- * Your memory usage beats 45.22 % of cpp submissions (8.7 MB)
- */

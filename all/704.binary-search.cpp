@@ -55,6 +55,10 @@ class Solution {
      * Time: O(n)
      * Space: O(1)
      *
+     * Time Spent: 8 min
+     * 47/47 cases passed (28 ms)
+     * Your runtime beats 91.26 % of cpp submissions
+     * Your memory usage beats 32.02 % of cpp submissions (27.5 MB)
      */
     int search(vector<int>& nums, int target) {
         int length = nums.size();
@@ -76,9 +80,3 @@ class Solution {
     }
 };
 // @lc code=end
-/**
- * Time: 8 min
- * 47/47 cases passed (28 ms)
- * Your runtime beats 91.26 % of cpp submissions
- * Your memory usage beats 32.02 % of cpp submissions (27.5 MB)
- */
