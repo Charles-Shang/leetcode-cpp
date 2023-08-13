@@ -29,3 +29,19 @@
 3. vector 是容器，底层实现是array
 
 [总结图片](https://code-thinking-1253855093.file.myqcloud.com/pics/%E6%95%B0%E7%BB%84%E6%80%BB%E7%BB%93.png)
+
+## Day 3
+
+> 链表理论基础，203.移除链表元素，707.设计链表，206.反转链表 
+
+* [X] 203 Remove Linked List Elements (7 min)
+  * 重点是要想想清楚 output 的链表的开头是哪一个
+    * 可以选择一直删除直到找到一个合适的头，再循环
+    * 也可以加一个dummyHead，只要注意返回需要返回dummyHead->next
+* [X] 707 Design Linked List (30 min)
+  * 比想象中有挑战性多了, 提交了很多次，但是好在看到test case就可以很容易很快找到问题所在
+  * 我的方法是本身作为linkedlist，没有添加dummy head
+    * 要注意 index的输入会导致需要考虑 `cur=head` 的指向，假如是nullptr需要单独考虑
+  * 看过c哥的做法，发现加一个dummyHead其实会简单很多，一些corner cases也自然而然不需要再特别强调
+* [ ] 206 Reverse Linked List (5 min)
+  * 经典题目，采用后面给前面可以轻松 O(n) 解决
