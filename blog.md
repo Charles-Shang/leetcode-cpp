@@ -32,7 +32,7 @@
 
 ## Day 3
 
-> 链表理论基础，203.移除链表元素，707.设计链表，206.反转链表 
+> 链表理论基础，203.移除链表元素，707.设计链表，206.反转链表
 
 * [X] 203 Remove Linked List Elements (7 min)
   * 重点是要想想清楚 output 的链表的开头是哪一个
@@ -43,5 +43,5 @@
   * 我的方法是本身作为linkedlist，没有添加dummy head
     * 要注意 index的输入会导致需要考虑 `cur=head` 的指向，假如是nullptr需要单独考虑
   * 看过c哥的做法，发现加一个dummyHead其实会简单很多，一些corner cases也自然而然不需要再特别强调
-* [ ] 206 Reverse Linked List (5 min)
+* [X] 206 Reverse Linked List (5 min)
   * 经典题目，采用后面给前面可以轻松 O(n) 解决
