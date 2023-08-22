@@ -5,6 +5,8 @@ This repository serves as a comprehensive log of my dedicated pursuit in masteri
 Completed Question List:
 
 * [X] 1 Two sum
+* [X] 15 3 Sum
+* [X] 18 4 Sum
 * [X] 19 Remove nth Node from End of List
 * [X] 24 Swap Nodes in Pairs
 * [X] 27 Remove Element
@@ -17,6 +19,8 @@ Completed Question List:
 * [X] 209 Minimum Size Subarray Sum
 * [X] 242 Valid Anagram
 * [X] 349 Intersection of Two Arrays
+* [X] 383 Ransom Note
+* [X] 454 4 Sum II
 * [X] 704 Binary Search
 * [X] 707 Design Linked List
 * [X] 997 Squares of a Sorted Array
