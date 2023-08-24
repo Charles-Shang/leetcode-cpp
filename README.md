@@ -10,6 +10,7 @@ Completed Question List:
 * [X] 19 Remove nth Node from End of List
 * [X] 24 Swap Nodes in Pairs
 * [X] 27 Remove Element
+* [ ] 28 Find the Index of the First Ocurrence in a String
 * [X] 59 Spiral Matrix II
 * [X] 142 Linked List Cycle II
 * [X] 151 Reverse words in a string
@@ -23,6 +24,7 @@ Completed Question List:
 * [X] 349 Intersection of Two Arrays
 * [X] 383 Ransom Note
 * [X] 454 4 Sum II
+* [ ] 459 Repeated Substring Pattern
 * [X] 541 Reverse String II
 * [X] 704 Binary Search
 * [X] 707 Design Linked List
