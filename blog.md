@@ -138,8 +138,8 @@
 
 > 28.实现 strStr()，459.重复的子字符串，字符串总结，双指针回顾
 
-* [ ] 28
-* [ ] 459
+* [ ] 28 Find the Index of the First Ocurrence in a String
+* [ ] 459 Repeated Substring Pattern
 
 ### 字符串总结
 （之后补 KMP 和 Boyer-Moore 算法）
